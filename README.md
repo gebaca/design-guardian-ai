@@ -3,7 +3,7 @@
 ## Clonar y Entrar:
 
 Bash
-git clone [TU_URL_DE_GITHUB]
+git clone https://github.com/gebaca/design-guardian-ai.git
 cd design-guardian-ai
 Variables de Entorno:
 
